@@ -1,5 +1,5 @@
 # EyeQ-Analyzer-Multiclass-OCT-Disease-Detection
-EyeQ Analyzer is an AI-powered system for classifying Optical Coherence Tomography (OCT) images into four categories:  
+EyeQ Analyzer is a system for classifying Optical Coherence Tomography (OCT) images into four categories:  
 - **CNV (Choroidal Neovascularization)**  
 - **DRUSEN**  
 - **DME (Diabetic Macular Edema)**  
